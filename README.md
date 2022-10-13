@@ -1,4 +1,5 @@
-# Esp-HuaweiR4850-Controller
+# Esp-HuaweiR4850-Controller 
+
 Das Huawei R4850G2 Recitfier Modul ist ein 3000Watt Lade Netzteil.  
 Es kann über Datenkommunikation gesteuert werden.  
 Die noch in der Entwicklung befindliche Software "Esp-HuaweiR4850-Controller" kann dieses Huawei dann steuern.  
@@ -24,4 +25,4 @@ Diese Verschaltung wird für den Betrieb des Huawei R4850 zum Esp benötigt.
 
 <img src="Bastelplan3192.png" alt="Esp8266-MCP2515 Bastelplan3192 by BavarianSuperGuy"/>
 
-
+#LifePO4 AC 48V Charger (43V -58.5V)
