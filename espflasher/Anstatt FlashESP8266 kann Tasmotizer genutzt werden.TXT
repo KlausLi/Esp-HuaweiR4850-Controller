@@ -1,0 +1,5 @@
+Anstatt "FlashESP8266" kann "Tasmotizer" 
+zum Flashen des "Esp12" genutzt werden
+
+Tasmotizer für Windows kann unkompliziert über google im Internet 
+zum Download gefunden werden
