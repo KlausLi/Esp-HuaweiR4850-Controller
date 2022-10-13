@@ -2,8 +2,8 @@
 Das Huawei R4850G2 Recitfier Modul ist ein 3000Watt Lade Netzteil.  
 Es kann über Datenkommunikation gesteuert werden.  
 Die noch in der Entwicklung befindliche Software "Esp-HuaweiR4850-Controller" kann dieses Huawei dann steuern.  
-Manuell geht bereits, siehe weiter unten Sceenshot Weboberfläche...  
-Auto : Implementiere ich warsch. alle Schnittstellen wie beim Soyo Controller  
+Manuell: funktioniert bereits, siehe weiter unten Sceenshot Weboberfläche...  
+   Auto: Implementiere ich warsch. alle Schnittstellen wie beim Soyo Controller  
 
 Der Huawei R4850G2 Controller ist noch in Arbeit , es wird wieder was feines :-)  
 Wie das Huawei angeschlossen wird , dazu kommt noch getrennt ein Video und   
