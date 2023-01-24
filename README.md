@@ -1,8 +1,4 @@
 # Esp-HuaweiR4850-Controller 
-##################################### 
-Das Huawei R4850G2 Rectifier Modul dass ich gekauft habe, hat eine SCHWARZE Blende vorne in der die Led Status Led 's eingelassen sind.
-Ich habe eine Rückmeldung bisher daß es mit R4850G2 und WEISSER Blende(günstiger bei Alibaba zu erstehen) NICHT mit CAN funktioniert
-##################################### 
 
 Das Huawei R4850G2 Rectifier Modul ist ein 3000Watt Lade Netzteil.  
 Es kann über Datenkommunikation gesteuert werden.  
