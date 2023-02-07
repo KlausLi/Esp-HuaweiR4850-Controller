@@ -22,7 +22,7 @@ Hier bitte - https://paypal.me/BSGuy
 
 Ich hab nun ein weisses R4850G2 noblerweise gespendet bekommen, daß hat scheints genau die genau die 
 gleiche Grundplatine wie meine schwarzen Netzteile.  
-Das weisse funktioniert, habs kurz mit Spannungsregelung und auslesen getestet.  
+Das weisse funktioniert AUCH, habs kurz mit Spannungsregelung und auslesen getestet.  
 Sieht man an den Leiterbahn anschlüssen UNTEN im nachfolgenden Bild(links weiss , rechts schwarz) ,  
 die Leiterbahnen sind genau gleich geformt und groß.  
 Denke das ist ein indikat um sich ein Netzteil für den Kauf auszusuchen, damit es auch funktionieren wird.  
