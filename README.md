@@ -29,8 +29,8 @@ Denke das ist ein indikat um sich ein Netzteil für den Kauf auszusuchen, damit 
 Garantie ist es keine , es gibt verschiedene Versionen.  
 Das weisse Netzteil wurde in Alibaba gekauft und war sehr dreckig und genutzt , auch mit kleinen Hitze schäden  
 ALSO Vorsicht beim Kauf!  
-Das weisse von mir gereinigte Netzteil wird mein Testschwein  
-und in künftigen Videos auf YT zu gequält zu sehen sein :-)!  
+Das weisse von mir gereinigte Netzteil wird mein Testschwein und in künftigen Videos auf YT,  
+gequält zu sehen sein :-)!  
   
 <img src="huawei_weiss_vs_schwarz.png" alt="huawei R4850G2 weiss vs schwarz by BavarianSuperGuy"/>
 
