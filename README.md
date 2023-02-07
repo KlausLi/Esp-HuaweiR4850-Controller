@@ -20,6 +20,19 @@ Falls Ihr mich unterstützen wollt, Spenden zum Projekt und Projekten sind herzl
 Hier bitte - https://paypal.me/BSGuy  
 
 
+Ich hab nun ein weisses R4850G2 noblerweise gespendet bekommen, daß hat scheints genau die genau die 
+gleiche Grundplatine wie meine schwarzen Netzteile. 
+Das weisse funktioniert, habs kurz mit Spannungsregelung und auslesen getestet.
+Sieht man an den Leiterbahn anschlüssen UNTEN im nachfolgenden Bild(links weiss , rechts schwarz) , 
+die Leiterbahnen sind genau gleich geformt und groß. 
+Denke das ist ein indikat um sich ein Netzteil für den Kauf auszusuchen, damit es auch funktionieren wird. 
+Garantie ist es keine , es gibt verschiedene Versionen. 
+Das weisse Netzteil wurde in Alibaba gekauft und war sehr dreckig und genutzt , auch mit kleinen Hitze schäden 
+ALSO Vorsicht beim Kauf! 
+
+<img src="huawei_weiss_vs_schwarz.png" alt="huawei R4850G2 weiss vs schwarz by BavarianSuperGuy"/>
+
+
 Ich übernehme keine Haftung für Schäden, die aufgrund der Nutzung 
 der Software entstehen oder entstanden sind. 
 Jeder ist für sein tun selber verantwortlich.
