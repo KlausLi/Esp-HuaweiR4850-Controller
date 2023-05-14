@@ -2,27 +2,24 @@
 
 Das Huawei R4850G2 Rectifier Modul ist ein 3000Watt Lade Netzteil.  
 Es kann über CAN Datenkommunikation gesteuert werden.  
-Die Software "Esp-HuaweiR4850-Controller" von BSG(mir) auf einen ESp8266 geflasht, kann dieses Huawei dann steuern.  
-Bei der Betriebsart Auto HttpClient(Shelly3EM) wird der Überschuss direkt vom Shelly nach dem Stromzähler ausgelesen.
-Wann der Shelly wert über die gewählten(checkboxen in Webgui) Phasen größer minus 10watt beträgt,
-wird die ESP Steuerung das Huawei alles an Strom bis zu -10watt an den DC Ausgang übergeben .
-In meinem Fall ist das der DC Ausgang die Batterie .
-
-
-Manuell: funktioniert bereits, siehe weiter unten Sceenshot Weboberfläche...  
-   Auto: Implementiere ich warsch. alle Schnittstellen wie beim Soyo Controller  
-!!!
-Das erste vor inbetriebnahme ist: in dre Webgui auf Offline die Spannung und Strom einstellen , bei mir 57V und 3A .
-Damit kann an die Batterie angeschlossen werden ohne das es funkt!   
-!!!
+Die Software "Esp-HuaweiR4850-Controller" auf einen ESp8266 geflasht, kann dieses Huawei dann steuern.  
+Bei der Betriebsart Auto HttpClient(Shelly3EM) wird der Überschuss direkt vom Shelly nach dem Stromzähler ausgelesen.  
+Wann der Shelly wert über die gewählten(checkboxen in Webgui) Phasen größer minus 10watt beträgt,  
+wird die ESP Steuerung das Huawei alles an Strom bis zu -10watt an den DC Ausgang übergeben .  
+In meinem Fall ist das der DC Ausgang die Batterie .  
+ 
+!!!  
+Das erste vor inbetriebnahme ist: in dre Webgui auf Offline die Spannung und Strom einstellen , bei mir 57V und 3A .  
+Damit kann an die Batterie angeschlossen werden ohne das es funkt!  
+!!!  
    
 Die genaue Beschreibung folgt noch, derweil musst du meine Videos anschauen :-) *g   
-da wird zum Großteil erklärt aber den meisten dürfte eh klar sein wie es funktioniert
+da wird zum Großteil erklärt aber den meisten dürfte eh klar sein wie es funktioniert  
 Einsteiger und Infosuchende  -> https://www.youtube.com/playlist?list=PLc1_U57CnlNgIBs_kg-ngtAFJLtnEw9wy  
  
-Software bekommt aber noch letzten Schliff , viele netter Features ...
+Software bekommt aber noch letzten Schliff , viele netter Features ...  
 Falls Ihr mich unterstützen wollt, Spenden zum Projekt und Projekten sind herzlich   willkommen und würde mich sehr freuen uhund kommen in jedem Fall gut an :-)  
-Projekt Spende Gerne Hier bitte - https://paypal.me/BSGuy 
+Projekt Spende Gerne Hier bitte - https://paypal.me/BSGuy  
 
 Wie das Huawei angeschlossen wird  
 https://youtu.be/9vzZ8Jc1Yzs  
@@ -44,8 +41,8 @@ Das weisse Netzteil wurde in Alibaba gekauft und war sehr dreckig und genutzt , 
 ALSO Vorsicht beim Kauf!  
 Das weisse von mir gereinigte Netzteil wird mein Testschwein und in künftigen Videos auf YT,  
 gequält zu sehen sein :-)!  
-  
-<img src="huawei_weiss_vs_schwarz.png" alt="huawei R4850G2 weiss vs schwarz by BavarianSuperGuy"/>
+ 
+<img src="huawei_weiss_vs_schwarz.png" alt="huawei R4850G2 weiss vs schwarz by BavarianSuperGuy"/>  
 
 
 Ich übernehme keine Haftung für Schäden, die aufgrund der Nutzung 
@@ -53,7 +50,7 @@ der Software entstehen oder entstanden sind.
 Jeder ist für sein tun selber verantwortlich.
 Mir sind keine Probleme bekannt.
 
-Vorab zum ESP8266 ein Hinweis!
+Vorab zum ESP8266 ein Hinweis!  
 zu 100% Lauffähig ist die hier eingestellte Software mit einem ESP12F Modul!
 Dieses ESP12F Modul gibt es als e,f oder s Variante.
 Diese haben immer ein Abschirmblech verbaut und haben 4MByte(32Mbit) Ram!
@@ -65,8 +62,9 @@ Die Entkopplung von RX/TX ist den D1/Node Platinen Herstellern nicht immer gelun
 Ich verwende für produktiven Betrieb die "Witzigen Wolke esp" (lichtsensor und led wird davon abgelötet)
 ohne die angesteckte Programmierplatine!
 
-Das ist ein perfektes Teil und günstig zu bekommen  :-)
-<img src="Witzige Wolke CAN Modul.png" alt="Steuerung Huawei R4850G2 Controller by BavarianSuperGuy"/>
+Das ist ein perfektes Teil und günstig zu bekommen  :-)  
+https://www.google.com/search?q=witzige+wolke+esp   
+<img src="Witzige_Wolke_CAN_Modul.png" alt="Steuerung Huawei R4850G2 Controller by BavarianSuperGuy"/>
 
 
 
