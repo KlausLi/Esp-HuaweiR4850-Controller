@@ -13,6 +13,8 @@ Bei der Betriebsart Auto HttpClient(Shelly3EM) wird der Überschuss automatisch 
 Wann der Shelly wert über die gewählten Phasen(checkboxen in Webgui) kleiner minus 10watt beträgt(z.B. -1000w),  
 wird die ESP Steuerung das Huawei alles an Strom bis zu -10watt an den DC Ausgang(990w) übergeben .  
 In meinem Fall ist der DC Ausgang, die Batterie .  
+Das Netzteil ist in voreinstellung vom ESP Controller auf 2000watt begrenzt , da wird es ca. 50 Grad heiss , was kein Problem darstellt.
+...siehe Power derating curve im Pdf...
  
 !!!  
 Das erste vor inbetriebnahme ist: in der Webgui auf "Offline" die Spannung und Strom einstellen(anschliessend Save) , bei mir 57V und 3A .  
