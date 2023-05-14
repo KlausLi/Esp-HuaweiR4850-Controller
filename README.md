@@ -4,6 +4,7 @@ Automatisch geregeltes PhotoVoltaik Überschuss Batterie Laden vom feinsten!
 Günstig für 48V(41,5V-58,5V) Batterie System!  
 LifePo4 Heimspeicher mal eben durch z.B. Balkonkraftwerk Überschuss? zusätzlich aufladen!  
 
+<a href="/pdfs/ProjMarr_slides.pdf" type="application/pdf" class="image fit">-- R480G2 PDF --</a> 
 
 Das Huawei R4850G2 Rectifier Modul ist ein 3000Watt Lade Netzteil.  
 Es kann über CAN Datenkommunikation gesteuert werden.  
