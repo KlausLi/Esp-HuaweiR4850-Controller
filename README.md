@@ -1,5 +1,8 @@
 # Esp-HuaweiR4850-Controller 
 
+Automatisch geregeltes PhotoVoltaik Überschuss Batterie Laden vom feinsten und günstig!
+LifePo4 Heimspeicher mal eben durch Balkonkraftwerk Überschuss ? zusätzlich aufladen
+
 Das Huawei R4850G2 Rectifier Modul ist ein 3000Watt Lade Netzteil.  
 Es kann über CAN Datenkommunikation gesteuert werden.  
 Die Software "Esp-HuaweiR4850-Controller" auf einen ESp8266 geflasht, kann dieses Huawei dann steuern.  
@@ -143,7 +146,7 @@ oder -200.66 erwartet (Dezimaltrenner ist punkt) und muss immer den reelen/aktue
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 - 1.Mqtt L1L2L3 Publish Setting : Qos0 (fire & forget)
-- 2.Wenn WebInterface L1L2L3Auto?Value=200.66... genutzt wird dann schon alle sekunden senden
+- 2.Wenn WebInterface L1L2L3Auto?Value=-200.66... genutzt wird dann schon alle sekunden senden
 
 ########################################################################
 
