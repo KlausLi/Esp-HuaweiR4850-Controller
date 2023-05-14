@@ -17,7 +17,10 @@ Die genaue Beschreibung folgt noch, derweil musst du meine Videos anschauen :-) 
 da wird zum Großteil erklärt aber den meisten dürfte eh klar sein wie es funktioniert  
 Einsteiger und Infosuchende  -> https://www.youtube.com/playlist?list=PLc1_U57CnlNgIBs_kg-ngtAFJLtnEw9wy  
  
-Software bekommt aber noch letzten Schliff , viele netter Features ...  
+Software bekommt aber noch letzten Schliff , viele netter Features ...
+
+Ps.: Die "Online" Lade Spannung für die Regelung wird bei allen Schnittstellen ausser der VA Schnittstelle in der Webgui eingestellt(anschliessend Save), der Strom fürs Huawei wird dann Berechnet aus der übergebenen Leistung(derzeit noch ohne Effizienz optimierung)
+  
 Falls Ihr mich unterstützen wollt, Spenden zum Projekt und Projekten sind herzlich   willkommen und würde mich sehr freuen uhund kommen in jedem Fall gut an :-)  
 Projekt Spende Gerne Hier bitte - https://paypal.me/BSGuy  
 
