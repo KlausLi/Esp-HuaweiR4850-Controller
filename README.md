@@ -20,6 +20,8 @@ Einsteiger und Infosuchende  -> https://www.youtube.com/playlist?list=PLc1_U57Cn
 Software bekommt aber noch letzten Schliff , viele netter Features ...
 
 Ps.: Die "Online" Lade Spannung für die Regelung wird bei allen Schnittstellen ausser der VA Schnittstelle in der Webgui eingestellt(anschliessend Save), der Strom fürs Huawei wird dann Berechnet aus der übergebenen Leistung(derzeit noch ohne Effizienz optimierung)
+
+Ps2.: Wer den Soyo am laufen hat muss ihn nicht ausschalten, der Soy mit esp regelung pendelt sich von selbst wieder auf 0 Einspeise regelung wann überschuss da ist ... bisher 2 monate lang beobachtet
   
 Falls Ihr mich unterstützen wollt, Spenden zum Projekt und Projekten sind herzlich   willkommen und würde mich sehr freuen uhund kommen in jedem Fall gut an :-)  
 Projekt Spende Gerne Hier bitte - https://paypal.me/BSGuy  
