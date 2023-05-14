@@ -1,14 +1,15 @@
 # Esp-HuaweiR4850-Controller 
 
 Automatisch geregeltes PhotoVoltaik Überschuss Batterie Laden vom feinsten und günstig!
-LifePo4 Heimspeicher mal eben durch Balkonkraftwerk Überschuss ? zusätzlich aufladen
+LifePo4 Heimspeicher mal eben durch z.B. Balkonkraftwerk Überschuss? zusätzlich aufladen!  
+
 
 Das Huawei R4850G2 Rectifier Modul ist ein 3000Watt Lade Netzteil.  
 Es kann über CAN Datenkommunikation gesteuert werden.  
 Die Software "Esp-HuaweiR4850-Controller" auf einen ESp8266 geflasht, kann dieses Huawei dann steuern.  
 Bei der Betriebsart Auto HttpClient(Shelly3EM) wird der Überschuss automatisch direkt vom Shelly nach dem Stromzähler ausgelesen und der Überschusswert dem Huawei zum Laden an DC Ausgang übergeben .  
-Wann der Shelly wert über die gewählten Phasen(checkboxen in Webgui) größer minus 10watt beträgt,  
-wird die ESP Steuerung das Huawei alles an Strom bis zu -10watt an den DC Ausgang übergeben .  
+Wann der Shelly wert über die gewählten Phasen(checkboxen in Webgui) kleiner minus 10watt beträgt(z.B. -1000w),  
+wird die ESP Steuerung das Huawei alles an Strom bis zu -10watt an den DC Ausgang(990w) übergeben .  
 In meinem Fall ist der DC Ausgang, die Batterie .  
  
 !!!  
