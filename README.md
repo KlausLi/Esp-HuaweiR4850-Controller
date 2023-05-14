@@ -9,7 +9,7 @@ wird die ESP Steuerung das Huawei alles an Strom bis zu -10watt an den DC Ausgan
 In meinem Fall ist der DC Ausgang, die Batterie .  
  
 !!!  
-Das erste vor inbetriebnahme ist: in dre Webgui auf Offline die Spannung und Strom einstellen , bei mir 57V und 3A .  
+Das erste vor inbetriebnahme ist: in der Webgui auf "Offline" die Spannung und Strom einstellen(anschliessend Save) , bei mir 57V und 3A .  
 Damit kann an die Batterie angeschlossen werden ohne das es funkt!  
 !!!  
    
