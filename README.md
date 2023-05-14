@@ -90,9 +90,8 @@ und der esp kann auch nix anderes machen wann er ständig versucht sich  ins Wla
 
 Internet Explorer wird nicht unterstützt!(GLUMP) ab Edge(Chrome Kern) funzt es wieder
 
-aktuelle Version 
+aktuelle Version  
 <img src="Webseite Huawei R4850G2 Controller.png" alt="Huawei R4850G2 Controller by BavarianSuperGuy"/>
-
 
 ESP:
 
