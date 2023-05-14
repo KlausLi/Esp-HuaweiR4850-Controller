@@ -1,6 +1,7 @@
 # Esp-HuaweiR4850-Controller 
 
-Automatisch geregeltes PhotoVoltaik Überschuss Batterie Laden vom feinsten und günstig!
+Automatisch geregeltes PhotoVoltaik Überschuss Batterie Laden vom feinsten!  
+Günstig für 48V(41,5V-58,5V) Batterie System!  
 LifePo4 Heimspeicher mal eben durch z.B. Balkonkraftwerk Überschuss? zusätzlich aufladen!  
 
 
