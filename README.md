@@ -79,8 +79,6 @@ Das ist ein perfektes Teil und günstig zu bekommen  :-)
 https://www.google.com/search?q=witzige+wolke+esp   
 <img src="Witzige_Wolke_CAN_Modul.png" alt="Steuerung Huawei R4850G2 Controller by BavarianSuperGuy"/>  
 
-Huawei Anschluss  
-<img src="huawei_anschluss.png" alt="Steuerung Huawei R4850G2 Controller by BavarianSuperGuy"/>  
 
 GANZ UNTEN IST DAS ANSCHLUSSSCHEMA für CAN Bus zu ESP12F D1 Modul(Bastelplan3192)
 
@@ -180,3 +178,9 @@ Diese Verschaltung wird für den Betrieb des Huawei R4850 zum Esp benötigt.
 <img src="Bastelplan3192.png" alt="Esp8266-MCP2515 Bastelplan3192 by BavarianSuperGuy"/>
 
 #LifePO4 AC 48V Charger (43V -58.5V)
+
+
+
+Huawei Anschluss  - JETZT gehts zur Sache! :-)
+<img src="huawei_anschluss.png" alt="Steuerung Huawei R4850G2 Controller by BavarianSuperGuy"/>  
+
