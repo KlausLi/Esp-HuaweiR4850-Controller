@@ -77,9 +77,10 @@ ohne die angesteckte Programmierplatine!
 
 Das ist ein perfektes Teil und günstig zu bekommen  :-)  
 https://www.google.com/search?q=witzige+wolke+esp   
-<img src="Witzige_Wolke_CAN_Modul.png" alt="Steuerung Huawei R4850G2 Controller by BavarianSuperGuy"/>
+<img src="Witzige_Wolke_CAN_Modul.png" alt="Steuerung Huawei R4850G2 Controller by BavarianSuperGuy"/>  
 
-
+Huawei Anschluss  
+<img src="huawei_anschluss.png" alt="Steuerung Huawei R4850G2 Controller by BavarianSuperGuy"/>  
 
 GANZ UNTEN IST DAS ANSCHLUSSSCHEMA für CAN Bus zu ESP12F D1 Modul(Bastelplan3192)
 
