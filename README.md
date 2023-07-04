@@ -180,7 +180,7 @@ Diese Verschaltung wird für den Betrieb des Huawei R4850 zum Esp benötigt.
 #LifePO4 AC 48V Charger (43V -58.5V)  
   
   
-Am Ende ist das Gelände   sogt da konfuzzi
-Huawei Anschluss  - JETZT gehts zur Sache! :-)
+Am Ende ist das Gelände   sogt da konfuzzi  
+Huawei Anschluss  - JETZT gehts zur Sache! :-)  
 <img src="huawei_anschluss.png" alt="Steuerung Huawei R4850G2 Controller by BavarianSuperGuy"/>  
 
