@@ -34,6 +34,9 @@ Ps2.: Wer den Soyo am laufen hat muss ihn nicht ausschalten, der Soyo mit esp re
 Falls Ihr mich unterstützen wollt, Spenden zum Projekt und Projekten sind herzlich   willkommen und würde mich sehr freuen uhund kommen in jedem Fall gut an :-)  
 Projekt Spende Gerne Hier bitte - https://paypal.me/BSGuy  
 
+Wie dder Esp mit dem CanBus Modul verbunden wird
+https://youtu.be/2mAzP_35Ox8
+
 Wie das Huawei angeschlossen wird  
 https://youtu.be/9vzZ8Jc1Yzs  
 
